@@ -11,3 +11,5 @@ target/classes/com/pluralsight/Browser.class
 
 target/classes/com/pluralsight/HomePage.class
 target/*
+
+*.class
